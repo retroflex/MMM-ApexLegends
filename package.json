@@ -1,0 +1,23 @@
+{
+	"name": "MMM-ApexLegends",
+	"version": "1.0.0",
+	"description": "A MagicMirror2 module that shows Apex Legends players' stats.",
+	"keywords": [
+		"magic mirror",
+		"apex legends"
+	],
+	"homepage": "https://github.com/retroflex/MMM-ApexLegends#readme",
+	"bugs": {
+		"url": "https://github.com/retroflex/MMM-ApexLegends/issues"
+	},
+	"license": "MIT",
+	"author": "Johan Persson",
+	"main": "MMM-ApexLegends.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/retroflex/MMM-ApexLegends"
+	},
+	"dependencies": {
+		"request-promise": "^4.2.4"
+	}
+}

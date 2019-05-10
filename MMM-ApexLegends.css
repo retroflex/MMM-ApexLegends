@@ -1,0 +1,12 @@
+.MMM-ApexLegends td {
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+.MMM-ApexLegends .header-row {
+	font-weight: bold;
+}
+
+.MMM-ApexLegends .stats-row {
+	color: #fff;
+}

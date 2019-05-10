@@ -3,6 +3,8 @@ A [MagicMirror²](https://github.com/MichMich/MagicMirror) module that shows Ape
 
 The stats are fetched from [the ApexTab API](https://github.com/Tabwire/ApexTab-API).
 
+![screenshot](https://user-images.githubusercontent.com/25268023/57530504-afb85700-7337-11e9-9e42-9219633512d3.png)
+
 # Installation
 1. Clone repo:
 ```

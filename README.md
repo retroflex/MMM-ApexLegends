@@ -1,7 +1,7 @@
 # MMM-ApexLegends
 A [MagicMirror²](https://github.com/MichMich/MagicMirror) module that shows Apex Legends players' stats (level, kills and global rank).
 
-The stats are fetched from [this API](https://github.com/Tabwire/ApexTab-API).
+The stats are fetched from [the ApexTab API](https://github.com/Tabwire/ApexTab-API).
 
 # Installation
 1. Clone repo:
